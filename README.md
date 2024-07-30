@@ -1,4 +1,4 @@
-# Projetc
+# Project
 
 ## Technology 
 
